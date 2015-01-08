@@ -9,7 +9,7 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "grunt-wiredep": "^2.0.0",
-    "socket.io": "~1.2.1",
+    "socket.io": "~1.2.1"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
